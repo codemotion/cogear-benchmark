@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "faker": "^4.1.0",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  },
+  "scripts": {
+    "fake": "node fake.js"
+  },
+  "name": "cogear-benchmark",
+  "version": "1.0.0",
+  "description": "Testing speed of Cogear.JS static pages generation",
+  "main": "index.js",
+  "repository": "https://github.com/codemotion/cogear-benchmark",
+  "author": "Dmitriy Beliaev <admin@cogear.ru> (https://cogear.org/)",
+  "license": "MIT"
+}
